@@ -1,0 +1,101 @@
+body{
+	background-color: #87cefa;
+}
+
+.table{
+	font-size: 13px;
+	background-color: white;
+}
+
+.back{
+	margin-top: 2%;
+	background-color: white;
+	border-radius: 3px;
+	padding: 10px 15px;
+}
+
+.insert{
+	margin-top: 2%;
+	background-color: white;
+	border-radius: 3px;
+	padding: 10px 15px;
+}
+
+.back h5{
+	padding: 15px 0px;
+	float: left;
+}
+
+.back form{
+	float: right;
+	margin:	10px 0px;
+	border-bottom: 1px solid #ddd;
+}
+
+.back input{
+	font-size: 15px;
+	padding:3px 10px;
+	border: 0px;
+}
+
+.back button span{
+	color: gray;
+}
+
+.back button{
+	background-color: white;
+	border: 0px;
+	padding-right: 10px;
+}
+
+.mid{
+	margin-top: 400px;
+}
+
+.add{
+	float: right;
+	margin:	13px 30px 12px 0px;
+	color: green;
+}
+
+.add i{
+	font-size: 15px;
+}
+
+.add a{
+	text-decoration: none;
+	color: green;
+	transition: 0.2s; 
+}
+
+.add a:hover{
+	color: #a9d39e;
+}
+
+.trash a{
+	text-decoration: none;
+	color: red;
+	font-size: 20px;
+	float: left;
+	padding-right:10px;
+	transition: 0.2s; 
+}
+
+.trash a:hover{
+	color:pink;
+}
+
+.update a{
+	text-decoration: none;
+	color: green;
+	font-size: 20px;
+	transition: 0.2s; 
+}
+
+.update a:hover{
+	color: #a9d39e;
+}
+
+.prog{
+	width: 200px;
+}
