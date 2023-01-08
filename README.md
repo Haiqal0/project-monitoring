@@ -9,3 +9,5 @@ fitur web:
 - update project
 - delete project
 - search project berdasarkan nama project
+
+![priview project monitoring.png]( {https://github.com/Haiqal0/project-monitoring/blob/main/priview%20project%20monitoring.png} )
