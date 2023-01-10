@@ -1,6 +1,6 @@
 # project-monitoring
 
-website yang berisi daftar project yang sedang dikerjakan dengan detile lainnya seperti siapa clien, project leader, mulai dan selesai, dan progresnya.
+website yang berisi daftar project yang sedang dikerjakan dengan detail lainnya seperti siapa clien, project leader, mulai dan selesai, dan progresnya.
 
 fitur web:
 - list project
